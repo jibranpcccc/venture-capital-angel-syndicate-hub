@@ -1,0 +1,512 @@
+[
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-1",
+    "title": "r/deals Verified Price Drops",
+    "platform": "Reddit",
+    "category": "Deals & Discounts",
+    "memberCount": "420,000+ members",
+    "description": "Curated verified discounts, price error alerts, electronics clearances, and online promotional coupon codes.",
+    "joinUrl": "https://www.reddit.com/r/deals/",
+    "tags": [
+      "deals",
+      "discounts",
+      "savings",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-2",
+    "title": "r/Frugal Financial Optimization",
+    "platform": "Reddit",
+    "category": "Smart Savings",
+    "memberCount": "3,100,000+ members",
+    "description": "Community dedicated to living well on less, waste reduction, meal planning, and finding durable value.",
+    "joinUrl": "https://www.reddit.com/r/Frugal/",
+    "tags": [
+      "frugal",
+      "savings",
+      "value",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-3",
+    "title": "r/fulfillmentbyamazon Sellers",
+    "platform": "Reddit",
+    "category": "Amazon FBA",
+    "memberCount": "130,000+ members",
+    "description": "Advanced Amazon seller discussions covering private labeling, PPC bids, logistics, and Amazon brand registry.",
+    "joinUrl": "https://www.reddit.com/r/fulfillmentbyamazon/",
+    "tags": [
+      "amazon-fba",
+      "ecommerce",
+      "selling",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-4",
+    "title": "r/shopify Store Owners",
+    "platform": "Reddit",
+    "category": "E-Commerce",
+    "memberCount": "220,000+ members",
+    "description": "Community for Shopify entrepreneurs, store design, theme optimization, checkout conversions, and app integrations.",
+    "joinUrl": "https://www.reddit.com/r/shopify/",
+    "tags": [
+      "shopify",
+      "ecommerce",
+      "marketing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-discord-5",
+    "title": "E-Commerce Sellers Discord",
+    "platform": "Discord",
+    "category": "E-Commerce Tech",
+    "memberCount": "35,000+ members",
+    "description": "Discord server for brand owners scaling DTC stores, TikTok shop integrations, and supply chain logistics.",
+    "joinUrl": "https://discord.gg/ecommerce",
+    "tags": [
+      "ecommerce",
+      "dtc",
+      "discord",
+      "shopify"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-telegram-6",
+    "title": "Daily Deals & Glitches Telegram",
+    "platform": "Telegram",
+    "category": "Deals & Coupons",
+    "memberCount": "92,000+ members",
+    "description": "Instant notifications for Amazon price errors, promo codes, clearance sales, and limited-time discounts.",
+    "joinUrl": "https://t.me/dealnews",
+    "tags": [
+      "deals",
+      "telegram",
+      "coupons",
+      "clearance"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-forum-7",
+    "title": "Shopify Community Forum",
+    "platform": "Forum",
+    "category": "E-Commerce",
+    "memberCount": "900,000+ members",
+    "description": "Official forum for Liquid template coding, Storefront API troubleshooting, and business scaling guidance.",
+    "joinUrl": "https://community.shopify.com",
+    "tags": [
+      "shopify",
+      "forum",
+      "liquid",
+      "dtc"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-forum-8",
+    "title": "Slickdeals Community Forum",
+    "platform": "Forum",
+    "category": "Deals & Discounts",
+    "memberCount": "12,000,000+ members",
+    "description": "The largest social deal-sharing site where millions of members vote on and verify bargains and coupon codes.",
+    "joinUrl": "https://slickdeals.net/forums/",
+    "tags": [
+      "slickdeals",
+      "forum",
+      "discounts",
+      "deals"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-9",
+    "title": "r/SEO Search Engine Optimization",
+    "platform": "Reddit",
+    "category": "SEO & GEO",
+    "memberCount": "270,000+ members",
+    "description": "Technical SEO, Core Web Vitals, Google algorithm update analysis, backlink audits, and Generative Engine Optimization.",
+    "joinUrl": "https://www.reddit.com/r/SEO/",
+    "tags": [
+      "seo",
+      "geo",
+      "google",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-10",
+    "title": "r/marketing Growth & Strategy",
+    "platform": "Reddit",
+    "category": "Digital Marketing",
+    "memberCount": "680,000+ members",
+    "description": "Brand positioning, paid acquisition, funnel attribution, CRO testing, and content marketing case studies.",
+    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "tags": [
+      "marketing",
+      "growth",
+      "strategy",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-11",
+    "title": "r/startups Founders & Builders",
+    "platform": "Reddit",
+    "category": "Startups & SaaS",
+    "memberCount": "1,600,000+ members",
+    "description": "Discussions on product-market fit, customer discovery interviews, investor pitch decks, and bootstrapping.",
+    "joinUrl": "https://www.reddit.com/r/startups/",
+    "tags": [
+      "startups",
+      "saas",
+      "founders",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-12",
+    "title": "r/SaaS Software as a Service",
+    "platform": "Reddit",
+    "category": "SaaS Growth",
+    "memberCount": "160,000+ members",
+    "description": "B2B SaaS pricing models, churn reduction, outbound cold email frameworks, and MRR growth teardowns.",
+    "joinUrl": "https://www.reddit.com/r/SaaS/",
+    "tags": [
+      "saas",
+      "b2b",
+      "mrr",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-discord-13",
+    "title": "SEO Professionals Discord",
+    "platform": "Discord",
+    "category": "SEO & Search",
+    "memberCount": "28,000+ members",
+    "description": "Real-time discussions between agency operators and enterprise SEO consultants on search visibility.",
+    "joinUrl": "https://discord.gg/seo",
+    "tags": [
+      "seo",
+      "discord",
+      "search",
+      "analytics"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-telegram-14",
+    "title": "Global Startups Hub Channel",
+    "platform": "Telegram",
+    "category": "Startups & Venture",
+    "memberCount": "78,000+ members",
+    "description": "Updates on venture capital fundings, Product Hunt launches, and SaaS acquisition multiples.",
+    "joinUrl": "https://t.me/startup_hub",
+    "tags": [
+      "startups",
+      "telegram",
+      "saas",
+      "venture"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-forum-15",
+    "title": "Product Hunt Community",
+    "platform": "Forum",
+    "category": "Product Launches",
+    "memberCount": "1,000,000+ members",
+    "description": "The best place to discover innovative tech products daily, connect with makers, and collect user feedback.",
+    "joinUrl": "https://www.producthunt.com",
+    "tags": [
+      "producthunt",
+      "makers",
+      "launches",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-forum-16",
+    "title": "Indie Hackers Community",
+    "platform": "Forum",
+    "category": "Bootstrapping",
+    "memberCount": "250,000+ members",
+    "description": "Transparent revenue shares, founder interviews, and practical guides for bootstrapping profitable online businesses.",
+    "joinUrl": "https://www.indiehackers.com",
+    "tags": [
+      "indiehackers",
+      "bootstrapping",
+      "forum",
+      "saas"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-17",
+    "title": "r/investing Long Term Wealth",
+    "platform": "Reddit",
+    "category": "Investing",
+    "memberCount": "2,600,000+ members",
+    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
+    "tags": [
+      "investing",
+      "stocks",
+      "wealth",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-18",
+    "title": "r/stocks Market News",
+    "platform": "Reddit",
+    "category": "Stock Market",
+    "memberCount": "6,400,000+ members",
+    "description": "Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.",
+    "joinUrl": "https://www.reddit.com/r/stocks/",
+    "tags": [
+      "stocks",
+      "wall-street",
+      "earnings",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-19",
+    "title": "r/personalfinance Money Management",
+    "platform": "Reddit",
+    "category": "Personal Finance",
+    "memberCount": "19,000,000+ members",
+    "description": "The world's largest personal finance community covering budgeting, high-yield cash, 401(k)s, and tax efficiency.",
+    "joinUrl": "https://www.reddit.com/r/personalfinance/",
+    "tags": [
+      "personal-finance",
+      "budgeting",
+      "savings",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-20",
+    "title": "r/financialindependence FIRE Hub",
+    "platform": "Reddit",
+    "category": "Financial Independence",
+    "memberCount": "2,200,000+ members",
+    "description": "Community dedicated to Financial Independence, Retire Early (FIRE) strategies, safe withdrawal rates, and frugality.",
+    "joinUrl": "https://www.reddit.com/r/financialindependence/",
+    "tags": [
+      "fire",
+      "retirement",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-21",
+    "title": "r/wallstreetbets Alpha & Options",
+    "platform": "Reddit",
+    "category": "Trading",
+    "memberCount": "16,500,000+ members",
+    "description": "High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.",
+    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
+    "tags": [
+      "wsb",
+      "trading",
+      "options",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-22",
+    "title": "r/realestateinvesting Wealth Hub",
+    "platform": "Reddit",
+    "category": "Real Estate",
+    "memberCount": "540,000+ members",
+    "description": "Strategies for rental property acquisition, BRRRR method, commercial syndication, and 1031 tax exchanges.",
+    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
+    "tags": [
+      "real-estate",
+      "syndications",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-discord-23",
+    "title": "Stock Market Discord Hub",
+    "platform": "Discord",
+    "category": "Trading & Stocks",
+    "memberCount": "110,000+ members",
+    "description": "Active market discord providing live voice trading rooms, technical chart analysis, and economic calendar feeds.",
+    "joinUrl": "https://discord.gg/stocks",
+    "tags": [
+      "stocks",
+      "trading",
+      "discord",
+      "market"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-telegram-24",
+    "title": "Bloomberg Market Feed Channel",
+    "platform": "Telegram",
+    "category": "Market News",
+    "memberCount": "140,000+ members",
+    "description": "Rapid market headlines, Federal Reserve rate decisions, treasury yields, and global commodity moves.",
+    "joinUrl": "https://t.me/bloomberg",
+    "tags": [
+      "bloomberg",
+      "macro",
+      "telegram",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-forum-25",
+    "title": "Bogleheads Forum Community",
+    "platform": "Forum",
+    "category": "Passive Investing",
+    "memberCount": "250,000+ members",
+    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
+    "joinUrl": "https://bogleheads.org/forum/",
+    "tags": [
+      "bogleheads",
+      "indexing",
+      "forum",
+      "passive-investing"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-forum-26",
+    "title": "BiggerPockets Real Estate Forum",
+    "platform": "Forum",
+    "category": "Real Estate",
+    "memberCount": "2,000,000+ members",
+    "description": "The definitive online community for real estate investors, syndicators, wholesalers, and property managers.",
+    "joinUrl": "https://www.biggerpockets.com/forums",
+    "tags": [
+      "biggerpockets",
+      "real-estate",
+      "forum",
+      "wholesaling"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-27",
+    "title": "r/technology World News",
+    "platform": "Reddit",
+    "category": "Tech News",
+    "memberCount": "14,000,000+ members",
+    "description": "A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.",
+    "joinUrl": "https://www.reddit.com/r/technology/",
+    "tags": [
+      "technology",
+      "news",
+      "industry",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-28",
+    "title": "r/science Academic Research",
+    "platform": "Reddit",
+    "category": "Science & Innovation",
+    "memberCount": "32,000,000+ members",
+    "description": "Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.",
+    "joinUrl": "https://www.reddit.com/r/science/",
+    "tags": [
+      "science",
+      "research",
+      "innovation",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-reddit-29",
+    "title": "r/linux Open Source OS",
+    "platform": "Reddit",
+    "category": "Linux & OS",
+    "memberCount": "920,000+ members",
+    "description": "All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.",
+    "joinUrl": "https://www.reddit.com/r/linux/",
+    "tags": [
+      "linux",
+      "kernel",
+      "open-source",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "venture-capital-angel-syndicate-hub-discord-30",
+    "title": "Technology & Science Discord",
+    "platform": "Discord",
+    "category": "Tech Discussion",
+    "memberCount": "90,000+ members",
+    "description": "Global discussion server for engineering disciplines, scientific methodology, and emerging tech.",
+    "joinUrl": "https://discord.gg/tech",
+    "tags": [
+      "technology",
+      "discord",
+      "science",
+      "discussion"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
