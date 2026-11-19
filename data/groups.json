@@ -1,5 +1,24 @@
 [
   {
+    "id": "venture-capital-angel-syndicate-hub-reddit-2",
+    "title": "r/Frugal Financial Optimization",
+    "platform": "Reddit",
+    "category": "Smart Savings",
+    "memberCount": "3,100,000+ members",
+    "description": "Community dedicated to living well on less, waste reduction, meal planning, and finding durable value.",
+    "joinUrl": "https://www.reddit.com/r/Frugal/",
+    "tags": [
+      "frugal",
+      "savings",
+      "value",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "venture-capital-angel-syndicate-hub-reddit-1",
     "title": "r/deals Verified Price Drops",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -131,24 +150,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "venture-capital-angel-syndicate-hub-reddit-2",
-    "title": "r/Frugal Financial Optimization",
-    "platform": "Reddit",
-    "category": "Smart Savings",
-    "memberCount": "3,100,000+ members",
-    "description": "Community dedicated to living well on less, waste reduction, meal planning, and finding durable value.",
-    "joinUrl": "https://www.reddit.com/r/Frugal/",
-    "tags": [
-      "frugal",
-      "savings",
-      "value",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "venture-capital-angel-syndicate-hub-reddit-3",
