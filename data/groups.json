@@ -1,5 +1,24 @@
 [
   {
+    "id": "venture-capital-angel-syndicate-hub-reddit-9",
+    "title": "r/SEO Search Engine Optimization",
+    "platform": "Reddit",
+    "category": "SEO & GEO",
+    "memberCount": "270,000+ members",
+    "description": "Technical SEO, Core Web Vitals, Google algorithm update analysis, backlink audits, and Generative Engine Optimization.",
+    "joinUrl": "https://www.reddit.com/r/SEO/",
+    "tags": [
+      "seo",
+      "geo",
+      "google",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "venture-capital-angel-syndicate-hub-forum-8",
     "title": "Slickdeals Community Forum",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -264,24 +283,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "venture-capital-angel-syndicate-hub-reddit-9",
-    "title": "r/SEO Search Engine Optimization",
-    "platform": "Reddit",
-    "category": "SEO & GEO",
-    "memberCount": "270,000+ members",
-    "description": "Technical SEO, Core Web Vitals, Google algorithm update analysis, backlink audits, and Generative Engine Optimization.",
-    "joinUrl": "https://www.reddit.com/r/SEO/",
-    "tags": [
-      "seo",
-      "geo",
-      "google",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "venture-capital-angel-syndicate-hub-reddit-10",
